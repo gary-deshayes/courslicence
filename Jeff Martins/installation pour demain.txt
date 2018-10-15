@@ -1,0 +1,9 @@
+Symfony -> Composer
+
+Symfony 4.1
+
+Angular (Tuto angular.io / tutoriel )
+
+-> NPM -> npmjs.com/get-npm
+
+Angular -> cli.angular.io
