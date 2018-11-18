@@ -1,0 +1,5 @@
+Faire une tableau de backlog
+
+Id is; libelle; nb point; priorité 
+
+et un total de points
